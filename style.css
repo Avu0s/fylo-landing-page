@@ -46,7 +46,7 @@ nav > ul,
   display: flex;
   gap: 1rem;
 }
-ul > li {
+nav > ul > li {
   font-size: 0.75rem;
   font-weight: bold;
 }
