@@ -269,7 +269,8 @@ footer {
   gap: 1rem;
 }
 
-footer li:hover {
+footer li:hover,
+.fa:hover{
   color: var(--Desaturated-Blue);
 }
 
